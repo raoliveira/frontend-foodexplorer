@@ -37,7 +37,7 @@ Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
 Projeto pode ser acessado no link
 
-[Frontend do FoodExplorer](https://github.com/matiassingers/awesome-readme)
+[Frontend do FoodExplorer](https://foodexplorer-ro.netlify.app/)
 
 
 ## Relacionados
