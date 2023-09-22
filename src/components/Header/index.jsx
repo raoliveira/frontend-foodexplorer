@@ -7,6 +7,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import receipt from '../../assets/receipt.svg';
 
 import { Logo } from '../Logo';
+
 import { Button } from '../Button';
 import { Search } from '../Search';
 
