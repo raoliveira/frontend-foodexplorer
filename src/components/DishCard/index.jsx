@@ -7,8 +7,8 @@ import { useNavigate } from 'react-router-dom';
 
 import { Button } from '../Button';
 
-import increase from "../../assets/Increase.svg"
-import decrease from "../../assets/Decrease.svg"
+import increase from "../../assets/increase.svg"
+import decrease from "../../assets/decrease.svg"
 
 
 export function DishCard({ admin, id, name, image, price, description }) {
