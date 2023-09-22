@@ -35,9 +35,9 @@ Caso deseje explorar o sistema como um administrador, você pode usar as seguint
 Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 ## Deploy
 
-Projeto pode ser acessado no link
+Projeto pode ser acessado no link:
 
-[Frontend do FoodExplorer](https://foodexplorer-ro.netlify.app/)
+[https://foodexplorer-ro.netlify.app/](https://foodexplorer-ro.netlify.app/)
 
 
 ## Relacionados
